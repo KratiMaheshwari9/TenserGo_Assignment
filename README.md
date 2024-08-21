@@ -1,5 +1,5 @@
 # TenserGo_Assignment
-
+## Run Tenser.ipynb on google colab 
 Example Visualizations
 Table:
 +----------------+---------------------+-------------------+-------------+
