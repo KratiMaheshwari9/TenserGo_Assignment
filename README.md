@@ -10,7 +10,7 @@ Table:
 +----------------+---------------------+-------------------+-------------+
 
 
-Run on tenser.ipynb google colab
+
 
 # Before Fine-Tuning: GPT-2's Pre-Trained State
 
