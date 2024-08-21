@@ -1,12 +1,18 @@
 # TenserGo_Assignment
 ## Run Tenser.ipynb on google colab 
 Example Visualizations
+
 Table:
 +----------------+---------------------+-------------------+-------------+
+
 | Metric         | Before Fine-Tuning | After Fine-Tuning | Improvement |
+
 +----------------+---------------------+-------------------+-------------+
+
 | Accuracy       | 60.0%               | 85.0%             | +25.0%      |
+
 | Loss           | 1.20                | 0.45              | -0.75       |
+
 +----------------+---------------------+-------------------+-------------+
 
 
